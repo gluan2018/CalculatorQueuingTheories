@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Line</string>
+    <string name="lambdaClient">Taxa de chegada (λ)</string>
+    <string name="microClient">Taxa de atendimento (μ)</string>
+    <string name="calculate">Calcular</string>
+    <string name="infoValues">
+        Utilização do Sistema (ρ):\n%s\nNúmero médio de elementos no sistema (L):\n%s\nNúmero médio de elementos à espera na fila (Lq):\n%s\nTempo médio no sistema (W):\n%s\nTempo médio na fila (Wq):\n%s\nTempo de atendimento de um elemento (T):\n%s
+    </string>
+    <string name="infoLine">
+        A Teoria das Filas, um domínio intrinsecamente ancorado na matemática, destaca-se por sua abordagem analítica das filas ou linhas de espera, utilizando modelos matemáticos e cálculos para prever o comportamento dessas estruturas dinâmicas. Para aprofundar o entendimento desse campo crucial, abordaremos mais detalhadamente os seguintes aspectos:
+1.
+•	Medidas de Desempenho: A Teoria das Filas não se restringe à mera previsão de comportamentos; sua essência reside na determinação e avaliação de medidas de desempenho. Essas medidas, conhecidas como indicadores de eficiência, buscam expressar a produtividade e operacionalidade de processos que invariavelmente conduzem a períodos de espera. O propósito central é não apenas antecipar os cenários, mas também minimizar os impactos negativos dessas esperas nos processos em questão.
+•	Aplicações Cotidianas: A abrangência da Teoria das Filas vai além das situações comuns, permeando diversos cenários cotidianos. Para além das esperas evidentes em engarrafamentos, supermercados e bancos, essa teoria desempenha um papel crucial na otimização de processos e na gestão eficiente de serviços em uma miríade de contextos, moldando a experiência do usuário e a eficácia operacional.
+•	Descrição Detalhada do Problema de Filas: A conceituação aprofundada de um sistema de filas engloba não apenas a chegada e espera, mas também o processo subsequente de atendimento e a saída do cliente do sistema. Essa descrição mais detalhada destaca a dinâmica fundamental subjacente às filas, evidenciando seu impacto crucial na eficiência operacional e nas interações complexas entre clientes e serviços.
+•	Características Intrínsecas dos Processos de Filas: As seis características básicas dos processos de filas formam um arcabouço essencial para uma compreensão abrangente e precisa. Incluem não apenas o padrão de chegada dos clientes e o padrão de serviço dos servidores, mas também aspectos como disciplina de filas, capacidade do sistema, número de canais de serviço e número de estágios de serviços. Esses elementos coletivos proporcionam uma visão holística da complexidade operacional de um sistema de filas.
+•	Padrão Estocástico de Chegada dos Clientes: Uma consideração crucial reside no padrão estocástico de chegada dos clientes. Em processos de filas comuns, esses eventos de chegada são estocásticos, evoluindo no tempo e no espaço de acordo com leis de probabilidade. Essa natureza probabilística adiciona uma camada de complexidade à modelagem matemática, desafiando a previsibilidade e exigindo estratégias flexíveis de gerenciamento.
+•	Modelos de Chegada: A especificação minuciosa do comportamento do fluxo de chegadas dos usuários é vital para os modelos de filas. Compreender esses padrões de chegada é essencial para uma análise precisa e o aprimoramento de sistemas de filas em diferentes contextos, possibilitando a adaptação estratégica a variações na demanda e comportamento do usuário.
+A Teoria das Filas constitui um ramo matemático dedicado à análise da formação de filas ou linhas de espera. Seu propósito reside em determinar e avaliar medidas de desempenho que refletem a eficiência de processos sujeitos a períodos de espera. Aplica-se em diversas situações cotidianas, tais como o trânsito, supermercados e instituições bancárias. A representação de um sistema de filas ocorre mediante a chegada dos clientes, sua espera pelo serviço e a subsequente saída do sistema após serem atendidos. Seis características fundamentais oferecem uma descrição abrangente de um sistema de filas, abarcando o padrão de chegada dos clientes, o padrão de serviço dos servidores, a disciplina de filas, a capacidade do sistema, o número de canais de serviço e o número de estágios de serviços.
+
+    </string>
+</resources>
